@@ -1,0 +1,22 @@
+{
+	"name": "Andrés Ortiz Montalvo",
+	"website": "https://andresaugusto.github.io/",
+	"linkedin": "https://www.linkedin.com/in/andresortizmontalvo/",
+	"github": "andresaugusto",
+	"email": "andres.augusto@icloud.com",
+	"resume": "https://andresaugusto.github.io/assets/Andres-Resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+}
